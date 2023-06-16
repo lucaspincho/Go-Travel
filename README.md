@@ -16,7 +16,7 @@ A principal funcionalidade incluída é a:
 
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina/celular:
 
-- Node.js (versão 11 ou superior)
+- Node.js (versão 10 ou superior)
 - Expo Go
 
 ## Instalação e Execução
