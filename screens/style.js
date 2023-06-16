@@ -1,0 +1,1 @@
+/* Estilizado utilizando o Tailwind*/
